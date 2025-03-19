@@ -2,7 +2,13 @@
 
 ## Overview
 
-This repository is dedicated to practicing fundamental bitwise operations in the C programming language. The goal is to implement various bitwise functions using only specified operators while avoiding pre-built functions or external libraries. Each function comes with constraints regarding which operators are permitted, making this an excellent exercise for understanding bitwise manipulations at a low level.
+This repository is dedicated to practicing fundamental bitwise operations in the C programming language. The goal is to implement various bitwise functions using only specified operators while avoiding pre-built functions or external libraries. Each function comes with constraints regarding which operators are permitted, making this an excellent exercise for understanding bitwise manipulations at a low level. 
+
+## System Details:
+OS: OracleLinux 8.10 x86_64
+CPU Model: Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+vCPU Count: 2
+RAM: 4 GB
 
 ## Getting Started
 
