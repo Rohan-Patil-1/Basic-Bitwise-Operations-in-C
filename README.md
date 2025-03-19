@@ -1,4 +1,4 @@
-# Basic-Bitwise-Operations-in-C
+# Bitwise-Operations-in-C
 
 This repository is for pratice of basic Bitwise operations in C lanugage using operators and avoiding pre-built functions or libraries. Their are certains rules and constraints on which operators are legal or not for particular function. 
 
