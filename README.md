@@ -16,11 +16,11 @@ This repository is dedicated to practicing fundamental bitwise operations in the
 
 To compile the code, use the following command in your terminal:
 
-_gcc -o bitwise_operations bitwise_operations.c_
+```_gcc -o bitwise_operations bitwise_operations.c_```
 
 Then, run the compiled executable:
 
-_./bitwise_operations_
+```_./bitwise_operations_```
 
 ## Function Implementations
 
