@@ -26,77 +26,41 @@ _./bitwise_operations_
 
 Each function is designed with specific constraints on the legal operators. Below are some of the functions you need to implement:
 
-1. bitOr
+1. bitOr - Computes the bitwise OR operation using only ~ (bitwise NOT) and & (bitwise AND).
 
-  Computes the bitwise OR operation using only ~ (bitwise NOT) and & (bitwise AND).
+2. bitAnd - Computes the bitwise AND operation using only ~ (bitwise NOT) and | (bitwise OR).
 
-2. bitAnd
+3. bitXor - Computes the bitwise XOR operation using only ~ (bitwise NOT) and & (bitwise AND).
 
-  Computes the bitwise AND operation using only ~ (bitwise NOT) and | (bitwise OR).
+4. isZero - Returns 1 if the input integer is 0, otherwise returns 0.
 
-3. bitXor
+5. tmin2 - Returns the second smallest two’s complement integer.
 
-  Computes the bitwise XOR operation using only ~ (bitwise NOT) and & (bitwise AND).
+6. negate - Returns the negation of the input integer.
 
-4. isZero
+7. isNegative - Returns 1 if the input integer is negative, otherwise returns 0.
 
-  Returns 1 if the input integer is 0, otherwise returns 0.
+8. isAsciiDigit - Determines if an integer represents an ASCII digit (0x30 to 0x39).
 
-5. tmin2
+9. conditional - Implements the ternary conditional operator x ? y : z using only bitwise and logical operators.
 
-  Returns the second smallest two’s complement integer.
+10. rotate4 - Performs a right bitwise rotation by 4 positions.
 
-6. negate
+11. allOddBits - Checks if all odd-numbered bits in an integer are set to 1.
 
-  Returns the negation of the input integer.
+12. divpwr2 - Computes x / (2^n) rounding toward zero.
 
-7. isNegative
+13. byteSwap - Swaps the n-th and m-th bytes of an integer.
 
-  Returns 1 if the input integer is negative, otherwise returns 0.
+14. logicalShift - Performs a logical right shift instead of an arithmetic shift.
 
-8. isAsciiDigit
+15. addOK - Determines whether the sum of two integers causes overflow.
 
-  Determines if an integer represents an ASCII digit (0x30 to 0x39).
+16. bang - Computes !x without using the ! operator.
 
-9. conditional
+17. isLess - Returns 1 if x < y, otherwise returns 0.
 
-  Implements the ternary conditional operator x ? y : z using only bitwise and logical operators.
-
-10. rotate4
-
-  Performs a right bitwise rotation by 4 positions.
-
-11. allOddBits
-
-  Checks if all odd-numbered bits in an integer are set to 1.
-
-12. divpwr2
-
-  Computes x / (2^n) rounding toward zero.
-
-13. byteSwap
-
-  Swaps the n-th and m-th bytes of an integer.
-
-14. logicalShift
-
-  Performs a logical right shift instead of an arithmetic shift.
-
-15. addOK
-
-  Determines whether the sum of two integers causes overflow.
-
-16. bang
-
-  Computes !x without using the ! operator.
-
-17. isLess
-
-  Returns 1 if x < y, otherwise returns 0.
-
-18. is0orMore
-
-  Returns 1 if x >= 0, otherwise returns 0.
+18. is0orMore - Returns 1 if x >= 0, otherwise returns 0.
 
 ## How to Contribute
 
