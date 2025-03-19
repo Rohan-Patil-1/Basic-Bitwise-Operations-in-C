@@ -4,19 +4,27 @@
 
 This repository is dedicated to practicing fundamental bitwise operations in the C programming language. The goal is to implement various bitwise functions using only specified operators while avoiding pre-built functions or external libraries. Each function comes with constraints regarding which operators are permitted, making this an excellent exercise for understanding bitwise manipulations at a low level. 
 
-## System Details:
+
+### System Details
+
 OS: OracleLinux 8.10 x86_64
+
 CPU Model: Intel(R) Xeon(R) Gold 6134 CPU @ 3.20GHz
+
 vCPU Count: 2
+
 RAM: 4 GB
 
+
 ## Getting Started
+
 
 ### Prerequisites
 
 1. Basic understanding of the C programming language.
 
 2. A C compiler (such as GCC or Clang) installed on your system.
+
 
 ### Compilation Instructions
 
@@ -27,6 +35,7 @@ To compile the code, use the following command in your terminal:
 Then, run the compiled executable:
 
 ```_./bitwise_operations_```
+
 
 ## Function Implementations
 
@@ -67,6 +76,7 @@ Each function is designed with specific constraints on the legal operators. Belo
 17. isLess - Returns 1 if x < y, otherwise returns 0.
 
 18. is0orMore - Returns 1 if x >= 0, otherwise returns 0.
+    
 
 ## How to Contribute
 
@@ -77,6 +87,7 @@ Work on the TO-DO sections in the provided C file.
 Compile and test your implementations.
 
 Submit a pull request with your changes.
+
 
 ## License
 
