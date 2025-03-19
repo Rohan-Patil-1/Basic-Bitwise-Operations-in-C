@@ -1,4 +1,4 @@
-# Bitwise-Operations-in-C
+# Basic Bitwise Operations in C
 
 ## Overview
 
